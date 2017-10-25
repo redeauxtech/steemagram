@@ -1,4 +1,4 @@
-# ISteemagram
+# Steemagram
 An Instagram-clone built on STEEM with additional features!!
 
 Feel free to contribute!!
