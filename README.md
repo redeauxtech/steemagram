@@ -12,7 +12,7 @@ Feel free to contribute!!
 6. [Images copyright claims](#copyright-claims)
 
 # Features
-1. Login, Signup, Forgot password (with email verification).
+1. Login, Signup, Forgot password (with email verification). Implementing Steem Connect V2 soon! 
 2. Quick Login like in Facebook and Instagram (this means app remembers that you had logged in, so you only have enter password to login again).
 3. Indicates that users exists as you type username when signing up.
 4. About, Developer, Help, 404, No such user, No such group page.
