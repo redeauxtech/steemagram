@@ -4,7 +4,7 @@
 
     public static $e;
     public static $database;
-    public static $DIR = "/faiyaz/Instagram";
+    public static $DIR = "";
     public static $GMAIL = "YOUR_GMAIL";
     public static $GMAIL_PASSWORD = "GMAIL_PASSWORD";
 
